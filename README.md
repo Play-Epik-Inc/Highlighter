@@ -1,4 +1,5 @@
-# ![alt text](https://raw.githubusercontent.com/AIDK/Highlighter/refs/heads/main/Highlighter/icon.png "Icon") **Highlighter**
+# <img src="https://raw.githubusercontent.com/AIDK/Highlighter/refs/heads/main/Highlighter/icon.png" alt="Icon" width="40px" height="40px"> **Highlighter**
+
 ![GitHub release](https://img.shields.io/github/v/release/AIDK/Highlighter?color=009dff) [![GitHub license](https://img.shields.io/badge/license-GNU-blue.svg)](https://github.com/AIDK/Highlighter/blob/main/LICENSE.txt)
 
 A Visual Studio Extension (Require VS 2022) for C# and C/C++ for Highlight comments.
